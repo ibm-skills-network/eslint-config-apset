@@ -19,5 +19,13 @@ OR
 yarn add eslint @apset/eslint-config-apset
 ```
 
+## Usage
+* Create `.eslintc` file
+```json
+{
+  "extends": "eslint-config-apset"
+}
+```
+
 ## Author
 - Partner Ecosystem Team, IBM Digital Business Group
