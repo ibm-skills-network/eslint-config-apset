@@ -10,13 +10,13 @@ curl -u<USERNAME>:<API_KEY> https://na.artifactory.swg-devops.com/artifactory/ap
 ```
 
 ```bash
-npm i @apset/eslint-config-apset
+npm i eslint @apset/eslint-config-apset
 ```
 
 OR
 
 ```bash
-yarn add @apset/eslint-config-apset
+yarn add eslint @apset/eslint-config-apset
 ```
 
 ## Author
