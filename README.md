@@ -23,7 +23,7 @@ yarn add eslint @apset/eslint-config-apset
 * Create `.eslintc` file
 ```json
 {
-  "extends": "eslint-config-apset"
+  "extends": "@apset/eslint-config-apset"
 }
 ```
 
