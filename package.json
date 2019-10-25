@@ -1,6 +1,6 @@
 {
-  "name": "@apset/eslint-config-apset",
-  "version": "1.1.0",
+  "name": "eslint-config-apset",
+  "version": "1.1.1",
   "description": "Node Style Guide for PET.",
   "main": "index.js",
   "files": [
@@ -13,13 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.ibm.com:apset/eslint-config-apset.git"
+    "url": "git@github.com:ibm-skills-network/eslint-config-apset.git"
   },
-  "publishConfig": {
-    "registry": "https://na.artifactory.swg-devops.com/artifactory/api/npm/apset-npm/"
-  },
-  "author": "Partner Ecosytem Team, IBM Digital Business Group",
-  "license": "ISC",
+  "author": "IBM Dev Skills Network, IBM Digital Business Group",
+  "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.9.0"

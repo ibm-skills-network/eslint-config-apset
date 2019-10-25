@@ -1,31 +1,25 @@
 # eslint-config-apset
-Node Style Guide for PET.
+Node Style Guide for IBM Dev Skills Network.
 
 ## Install
 
-Obtain your Artifactory API key at [here](https://na.artifactory.swg-devops.com/artifactory/webapp/#/home)
-
 ```bash
-curl -u<USERNAME>:<API_KEY> https://na.artifactory.swg-devops.com/artifactory/api/npm/apset-npm/auth/apset > .npmrc
-```
-
-```bash
-npm i eslint @apset/eslint-config-apset
+npm i eslint eslint-config-apset
 ```
 
 OR
 
 ```bash
-yarn add eslint @apset/eslint-config-apset
+yarn add eslint eslint-config-apset
 ```
 
 ## Usage
 * Create `.eslintc` file
 ```json
 {
-  "extends": "@apset/eslint-config-apset"
+  "extends": "eslint-config-apset"
 }
 ```
 
 ## Author
-- Partner Ecosystem Team, IBM Digital Business Group
+- IBM Dev Skills Network, IBM Digital Business Group
