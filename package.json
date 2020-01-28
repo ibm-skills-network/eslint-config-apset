@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-apset",
-  "version": "2.0.0-alpha.5",
+  "version": "2.0.0",
   "description": "Node Style Guide for PET.",
   "main": "index.js",
   "files": [
@@ -27,7 +27,8 @@
     "eslint-plugin-import": "2.20.0",
     "eslint-plugin-jsx-a11y": "6.x",
     "eslint-plugin-react": "7.x",
-    "eslint-plugin-react-hooks": "1.x"
+    "eslint-plugin-react-hooks": "1.x",
+    "typescript": "^3.7.4"
   },
   "devDependencies": {
     "eslint": "^6.8.0"

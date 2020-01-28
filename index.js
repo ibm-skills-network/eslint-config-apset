@@ -2,8 +2,8 @@
 
 module.exports = {
   extends: [
-    'airbnb-base',
-    'react-app',
+    'eslint-config-airbnb-base',
+    'eslint-config-react-app',
     './lib/legacy',
     './lib/rules/es6',
     './lib/rules/es8',
